@@ -5,7 +5,6 @@
 
 
 <?php include 'inc/header.php' ?>
-<!----------------Content Area------------------>
 <div class="slideshow-container w3-padding-top" style="width:1200px;">
   <div class="mySlides fade">
   <!--  <div class="numbertext">1 / 3</div>-->
@@ -137,9 +136,10 @@
 -->
 
 
-<!----------------Content Area------------------>
 
 <script src="js/myscripts.js"></script>
+
+
 
 <?php include 'inc/footer.php' ?>
 
