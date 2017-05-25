@@ -33,8 +33,8 @@
 </div>
 
 <div id="demo" class="w3-bar-block w3-red w3-hide w3-hide-large w3-hide-medium">
-  <a href="tem-about-us.php" class="w3-bar-item w3-button w3-hover-white w3-text-white" style="font-family: arial; font-size: 18px; font-weight:bold;">About Us</a>
-  <a href="packages.php" class="w3-bar-item w3-button w3-hover-white w3-text-white" style="font-family: arial; font-size: 18px; font-weight:bold;">Packages</a>
-  <a href="tem-contact-us.php" class="w3-bar-item w3-button w3-hover-white w3-text-white" style="font-family: arial; font-size: 18px; font-weight:bold;">Contact Us</a>
+  <a href="tem-about-us.php" class="w3-bar-item w3-button w3-hover-white w3-text-white" >About Us</a>
+  <a href="packages.php" class="w3-bar-item w3-button w3-hover-white w3-text-white" >Packages</a>
+  <a href="tem-contact-us.php" class="w3-bar-item w3-button w3-hover-white w3-text-white" >Contact Us</a>
 </div>
 
