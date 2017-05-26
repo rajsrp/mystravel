@@ -99,17 +99,17 @@
 
  <div class="w3-row">
   <div class="w3-third w3-container w3-center" style="padding-left: 60px; padding-right:60px;">
-  <img src="images/icons for mysore tra3.png" alt="accomodation">
+  <img src="images/home.png" alt="accomodation">
     <h2><span style="font-family: arial; font-size: 18px; align: center; color: #3f51b5; font-weight: bold;">Best Accomodation</span></h2>
     We assure you the best accomodation in every places you visit to make your trip worth remembering.
   </div>
   <div class="w3-third w3-container w3-center" style="padding-left: 60px; padding-right:60px;">
-   <img src="images/icons for mysore tra.png" alt="accomodation">
+   <img src="images/rupee.png" alt="accomodation">
     <h2><span style="font-family: arial; font-size: 18px; align: center; color: #3f51b5; font-weight: bold;">Best Price</span></h2>
     We are offering you various packages at lowest prices as possible.
   </div>
   <div class="w3-third w3-container w3-center" style="padding-left: 60px; padding-right:60px;">
-   <img src="images/icons for mysore tra2.png" alt="accomodation">
+   <img src="images/car.png" alt="accomodation">
     <h2><span style="font-family: arial; font-size: 18px; align: center; color: #3f51b5; font-weight: bold;">Best Services</span></h2>
     From picking up and till dropping you safe, we give you the best services beyond your expectations.
   </div>

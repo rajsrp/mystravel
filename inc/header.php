@@ -36,7 +36,7 @@
 </div>-->
 
 <div class="w3-bar w3-indigo">
-<a href="index.php" class="w3-bar-item"><img src="images/mysoretraveldummylogo.png" width="200"></a>
+<a href="index.php" class="w3-bar-item"><img src="images/logo.png" width="200"></a>
 <!--<<<<<<< HEAD-->
 <div class="w3-right w3-padding">
   <a href="index.php" class="w3-bar-item w3-button w3-hide-small">Home</a>
