@@ -32,19 +32,29 @@ Mysore Travel is the first choice of people planning for a vacation. We provide 
 &nbsp;<br><br>
 We are one of the top travel agencies in the city known for our best service, best price. 
 <br><br>
-Few of the places you can visit in Mysore.
-<br><br>
+
 We are offering you various packages in and around the city, to know more about the packages
 <br>
 <div class="w3-container w3-left" style="padding-top: 20px; padding-bottom: 50px;">
  <a href="packages.php" class="w3-btn w3-square-xxlarge w3-hover-white w3-indigo w3-hover-text-black"><strong style="font-family: arial;">CLICK HERE</strong></a>
 </div>
-<br><br>
-
-
-
+<br><br><br>
+<h3 style="text-align: center;">Few of the places you can visit.</h3>
 </div>
+<div class="slideshow-container" style="width:1200px;">
+  <div class="mySlides fade">
+  <!--  <div class="numbertext">1 / 3</div>-->
+   <img src="images/slideimage.jpg" style="width:1360px; height: 200px;">
+  </div>
 
+  <div class="mySlides fade">
+   <!-- <div class="numbertext">2 / 3</div>-->
+  <img src="images/slideimage2.jpg" style="width:1360px; height: 200px;">
+  </div>
+  </div>
+  
+  
+  <br><br>
 
 <!----------------Content Area------------------>
 
