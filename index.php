@@ -5,7 +5,7 @@
 
 
 <?php include 'inc/header.php' ?>
-<div class="slideshow-container w3-padding-top" style="width:1200px;">
+<div class="slideshow-container" style="width:1200px;">
   <div class="mySlides fade">
   <!--  <div class="numbertext">1 / 3</div>-->
     <img src="images/Mysore_Palace.jpg" style="width:1360px; height: 540px;">
