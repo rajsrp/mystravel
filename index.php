@@ -8,20 +8,20 @@
 <div class="slideshow-container w3-padding-top" style="width:1200px;">
   <div class="mySlides fade">
   <!--  <div class="numbertext">1 / 3</div>-->
-    <img src="images/Mysore_Palace.jpg" style="width:1360px; height: 540px; padding-top:50px;">
-    <div class="w3-animate-zoom text" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 10px; padding-left: 250px; text-align: center;">Beautiful Mysore Palace</div>
+    <img src="images/Mysore_Palace.jpg" style="width:1360px; height: 540px;">
+    <div class="w3-animate-zoom text" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 100px; padding-left: 250px; text-align: center;">Beautiful Mysore Palace</div>
   </div>
 
   <div class="mySlides fade">
    <!-- <div class="numbertext">2 / 3</div>-->
     <img src="images/Vrindavan_Garden.jpg" style="width:1360px; height: 540px;">
-    <div class="text w3-animate-zoom" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 10px; padding-left: 200px; text-align: center;">Brindavan Garden</div>
+    <div class="text w3-animate-zoom" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 100px; padding-left: 200px; text-align: center;">Brindavan Garden</div>
   </div>
 
   <div class="mySlides fade">
   <!--  <div class="numbertext">3 / 3</div>-->
     <img src="images/Karanji_lake.jpg" style="width:1360px; height: 540px;">
-    <div class="w3-animate-zoom text" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 10px; padding-left: 200px; text-align: center;">Karanji Lake</div>
+    <div class="w3-animate-zoom text" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 100px; padding-left: 200px; text-align: center;">Karanji Lake</div>
   </div>
   </div>
 <!--
@@ -44,7 +44,7 @@
 
  <div class="w3-third" style="padding-left: 10px; padding-right: 10px;">
   <div class="w3-card-2">
-   <a href="packages.php"> <img src="images/1daytrip.jpg" style="width:100%" class="w3-hover-opacity"></a>
+   <a href="oneday.php"> <img src="images/1daytrip.jpg" style="width:100%" class="w3-hover-opacity"></a>
     <div class="w3-container">
       <h4 style="text-align: center;">1 Day Package</h4>
     </div>
@@ -55,7 +55,7 @@
 
  <div class="w3-third" style="padding-left: 10px; padding-right: 10px;">
   <div class="w3-card-2">
-   <a href="packages.php"> <img src="images/2daytrip.jpg" style="width:100%" class="w3-hover-opacity"></a>
+   <a href="twodays.php"> <img src="images/2daytrip.jpg" style="width:100%" class="w3-hover-opacity"></a>
     <div class="w3-container">
       <h4 style="text-align: center;">2 Days Package</h4>
     </div>
@@ -66,7 +66,7 @@
 
  <div class="w3-third" style="padding-left: 10px; padding-right: 10px;">
   <div class="w3-card-2">
-   <a href="packages.php"> <img src="images/3daytrip.jpg" style="width:100%" class="w3-hover-opacity"></a>
+   <a href="threedays.php"> <img src="images/3daytrip.jpg" style="width:100%" class="w3-hover-opacity"></a>
     <div class="w3-container">
       <h4 style="text-align: center;">3 Days Package</h4>
     </div>

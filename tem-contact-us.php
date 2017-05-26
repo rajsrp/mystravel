@@ -5,7 +5,7 @@
 
 <?php include 'inc/header.php' ?>
 <!----------------Content Area------------------>
-<div class="w3-container w3-center" style="padding-top:160px; padding-bottom: 20px; width: 100%; align: center;">
+<div class="w3-container w3-center" style="padding-top:40px; padding-bottom: 10px; width: 100%; align: center;">
 <span style="font-size: 30px; color: blue; font-family: arial; font-weight: bold; text-align: middle; padding-top:20px; padding-bottom: 35px;">CONTACT US</span>
 </div>
 <div class="w3-container w3-center" style="padding-top:40px; padding-bottom: 55px; width: 100%; align: center;">
@@ -56,8 +56,8 @@
 
 </form>
 </div>
-<div class="w3-container w3-rest" style="padding-top: 0px; margin-left: 30px; padding-left: 50px;">
-<h3>Address:</h3>
+<div class="w3-container w3-rest" style="padding-top: 0px; margin-left: 30px; padding-left: 50px; font-family: arial;">
+<h3 style=" font-family: arial;">Address:</h3>
 #335, 1st Floor, <br>E and F BLock, <br>Navilu Road, <br>Kuvempunagar, <br>Mysore - 570023
 <br><br>
 <h3>Phone:</h3>

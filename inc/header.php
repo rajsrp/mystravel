@@ -38,17 +38,17 @@
 <div class="w3-bar w3-indigo">
 <a href="index.php" class="w3-bar-item"><img src="images/mysoretraveldummylogo.png" width="200"></a>
 <div class="w3-right">
-  <a href="#" class="w3-bar-item w3-button w3-hide-small">Home</a>
-  <a href="#" class="w3-bar-item w3-button w3-hide-small">Link 1</a>
-  <a href="#" class="w3-bar-item w3-button w3-hide-small">Link 2</a>
-  <a href="#" class="w3-bar-item w3-button w3-hide-small">Link 3</a></div>
+  <a href="index.php" class="w3-bar-item w3-button w3-hide-small">Home</a>
+  <a href="tem-about-us.php" class="w3-bar-item w3-button w3-hide-small">About Us</a>
+  <a href="packages.php" class="w3-bar-item w3-button w3-hide-small">Packages</a>
+  <a href="tem-contact-us.php" class="w3-bar-item w3-button w3-hide-small">Contact Us</a></div>
   <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="myFunction()">&#9776;</a>
 </div>
 
 <div id="demo" class="w3-bar-block w3-red w3-hide w3-hide-large w3-hide-medium">
- <a href="#" class="w3-bar-item w3-button">Link 1</a>
-  <a href="#" class="w3-bar-item w3-button">Link 2</a>
-  <a href="#" class="w3-bar-item w3-button">Link 3</a>
+ <a href="tem-about-us.php" class="w3-bar-item w3-button">About Us</a>
+  <a href="packages.php" class="w3-bar-item w3-button">Packages</a>
+  <a href="tem-contact-us.php" class="w3-bar-item w3-button">Contact Us</a>
 </div>
 
 
