@@ -8,7 +8,7 @@
 
 
 <div class="w3-container w3-center" style="padding-top:40px; padding-bottom: 20px; width: 100%; align: center;">
-<span style="font-size: 30px; color: blue; font-family: arial; font-weight: bold; text-align: middle; padding-top:20px; padding-bottom: 35px;">PLACES TO VISIT IN A DAY IN MYSORE CITY</span>
+<span style="font-size: 30px; color: blue; font-family: arial; font-weight: bold; text-align: middle; padding-top:20px; padding-bottom: 35px;">MYSORE ONE DAY TRIP</span>
 </div>
 
 <div class="w3-container" style="padding-top:10px; padding-bottom: 30px; width: 100%; margin: 10px;">

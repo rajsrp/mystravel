@@ -12,7 +12,7 @@
 </div>
 <div class="w3-container" style="padding-top:10px; padding-bottom: 30px; width: 100%; margin: 10px;">
 
- <div class="w3-third" style="padding-left: 10px; padding-right: 10px;">
+  <div class="w3-third" style="padding-left: 10px; padding-right: 10px;">
   <div class="w3-card-2">
    <a href="oneday.php"><img src="images/3daytrip1.jpg" style="width:100%" class="w3-hover-opacity"></a>
     <div class="w3-container">

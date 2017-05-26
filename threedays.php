@@ -14,7 +14,7 @@
 
   <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px;">
   <div class="w3-card-2">
-  <img src="images/3daytrip22.jpg" style="width:100%" class="w3-hover-opacity">
+  <a href="wayanad.php"><img src="images/3daytrip22.jpg" style="width:100%" class="w3-hover-opacity"></a>
     <div class="w3-container">
       <h4 style="text-align: center;">Wayanad</h4>
     </div>
@@ -23,9 +23,10 @@
 
   <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px;">
   <div class="w3-card-2">
-  <img src="images/3daytrip21.jpg" style="width:100%" class="w3-hover-opacity">
+  <a href="ooty.php"><img src="images/3daytrip21.jpg" style="width:100%" class="w3-hover-opacity"></a>
     <div class="w3-container">
       <h4 style="text-align: center;">Ooty</h4>
+      <h5 style="text-align: center;">mysore ooty package</h5>
     </div>
   </div>
 </div> 

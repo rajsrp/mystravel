@@ -38,7 +38,7 @@
 </div>-->
 
 <div class="w3-container w3-center" style=" padding-top:60px; padding-bottom: 55px; width: 100%; align: center;">
-<span style="font-size: 30px; color: #3f51b5; font-family: arial; font-weight: bold; text-align: middle; padding-top:20px; padding-bottom: 35px;">MYSORE TRAVEL PACKAGES</span>
+<h1><span style="color: #3f51b5; font-family: arial; font-weight: bold; text-align: middle; padding-top:20px; padding-bottom: 35px;">MYSORE TRAVELS PACKAGES</span></h1>
 </div>
 <div class="w3-container" style="padding-top:10px; padding-bottom: 30px;">
 
@@ -84,9 +84,9 @@
 </div>
 
 <div class="w3-container w3-center w3-indigo" style="padding-top: 50px; padding-bottom: 20px; width: 100%;">
-<span style="font-size: 34px; font-family: arial; font-weight: bold; color: white;"> For details on the packages and other queries, Contact Us</span>
+<h2><span style="font-family: arial; font-weight: bold; color: white;"> For details on the Mysore sightseeing packages and other queries, Contact Us</span></h2>
 <div class="w3-container w3-center" style="padding-top: 20px; padding-bottom: 50px;">
- <a href="tem-contact-us.php" class="w3-btn w3-square-xxlarge w3-hover-indigo w3-white w3-hover-text-white w3-text-indigo"><span style="font-family: arial; font-weight: bold;">CONTACT US</span></a>
+ <a href="contact-us.php" class="w3-btn w3-square-xxlarge w3-hover-indigo w3-white w3-hover-text-white w3-text-indigo"><span style="font-family: arial; font-weight: bold;">CONTACT US</span></a>
 </div>
 </div>
 
