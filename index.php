@@ -5,25 +5,25 @@
 
 
 <?php include 'inc/header.php' ?>
-<div class="slideshow-container" style="width:1200px;">
+<!--<div class="slideshow-container" style="width:1200px;">
   <div class="mySlides fade">
   <!--  <div class="numbertext">1 / 3</div>-->
-    <img src="images/Mysore_Palace.jpg" style="width:1360px; height: 540px;">
+    <!--<img src="images/Mysore_Palace.jpg" style="width:1360px; height: 540px;">
     <div class="w3-animate-zoom text" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 100px; padding-left: 250px; text-align: center;">Beautiful Mysore Palace</div>
   </div>
 
   <div class="mySlides fade">
    <!-- <div class="numbertext">2 / 3</div>-->
-    <img src="images/Vrindavan_Garden.jpg" style="width:1360px; height: 540px;">
+   <!-- <img src="images/Vrindavan_Garden.jpg" style="width:1360px; height: 540px;">
     <div class="text w3-animate-zoom" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 100px; padding-left: 200px; text-align: center;">Brindavan Garden</div>
   </div>
 
   <div class="mySlides fade">
   <!--  <div class="numbertext">3 / 3</div>-->
-    <img src="images/Karanji_lake.jpg" style="width:1360px; height: 540px;">
+  <!--  <img src="images/Karanji_lake.jpg" style="width:1360px; height: 540px;">
     <div class="w3-animate-zoom text" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 100px; padding-left: 200px; text-align: center;">Karanji Lake</div>
   </div>
-  </div>
+  </div>-->
 <!--
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>

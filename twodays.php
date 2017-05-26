@@ -113,15 +113,6 @@
 
  <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
   <div class="w3-card-2">
- <img src="images/3daytrip13.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Rajeev Gandhi National Park</h4>
-    </div>
-  </div>
-</div> 
-
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
-  <div class="w3-card-2">
  <img src="images/3daytrip18.jpg" style="width:100%" class="w3-hover-opacity">
     <div class="w3-container">
       <h4 style="text-align: center;">Ranganathittu Bird Sanctury</h4>
