@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+.<!DOCTYPE html>
 <html>
 <title>Mysore Travel</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -37,14 +37,14 @@
   <img class="mySlides" src="images/Karanji_lake.jpg" style="width:1360px; height: 540px;">
 </div>-->
 
-<div class="w3-container w3-center" style=" padding-top:60px; padding-bottom: 55px; width: 100%; align: center;">
-<h1><span style="color: #3f51b5; font-family: arial; font-weight: bold; text-align: middle; padding-top:20px; padding-bottom: 35px;">MYSORE TRAVELS PACKAGES</span></h1>
+<div class="w3-container w3-center w3-padding w3-text-indigo">
+<h1><strong>MYSORE TRAVELS PACKAGES</strong></h1>
 </div>
-<div class="w3-container" style="padding-top:10px; padding-bottom: 30px;">
+<div class="w3-container w3-padding">
 
- <div class="w3-third" style="padding-left: 10px; padding-right: 10px;">
+ <div class="w3-third">
   <div class="w3-card-2">
-   <a href="oneday.php"> <img src="images/1daytrip.jpg" style="width:100%" class="w3-hover-opacity"></a>
+   <a href="oneday.php"> <img src="images/1daytrip.jpg" width=100% class="w3-hover-opacity w3-padding"></a>
     <div class="w3-container">
       <h4 style="text-align: center;">1 Day Package</h4>
     </div>
@@ -53,9 +53,9 @@
 
 
 
- <div class="w3-third" style="padding-left: 10px; padding-right: 10px;">
+ <div class="w3-third">
   <div class="w3-card-2">
-   <a href="twodays.php"> <img src="images/2daytrip.jpg" style="width:100%" class="w3-hover-opacity"></a>
+   <a href="twodays.php"> <img src="images/2daytrip.jpg" width=100% class="w3-hover-opacity w3-padding"></a>
     <div class="w3-container">
       <h4 style="text-align: center;">2 Days Package</h4>
     </div>
@@ -64,9 +64,9 @@
 
 
 
- <div class="w3-third" style="padding-left: 10px; padding-right: 10px;">
+ <div class="w3-third">
   <div class="w3-card-2">
-   <a href="threedays.php"> <img src="images/3daytrip.jpg" style="width:100%" class="w3-hover-opacity"></a>
+   <a href="threedays.php"> <img src="images/3daytrip.jpg" width=100% class="w3-hover-opacity w3-padding"></a>
     <div class="w3-container">
       <h4 style="text-align: center;">3 Days Package</h4>
     </div>
@@ -79,38 +79,38 @@
 <button class="w3-btn w3-round-xxlarge w3-hover-grey w3-teal">KNOW MORE</button>
 </div> -->
 
-<div class="w3-container w3-center" style="padding-top: 20px; padding-bottom: 50px;">
- <a href="packages.php" class="w3-btn w3-square-xxlarge w3-hover-white w3-indigo w3-hover-text-indigo"><strong style="font-family: arial;">KNOW MORE</strong></a>
+<div class="w3-container w3-center w3-padding-16">
+ <a href="packages.php" class="w3-btn w3-square-xxlarge w3-hover-white w3-indigo w3-hover-text-indigo"><strong>KNOW MORE</strong></a>
 </div>
 
-<div class="w3-container w3-center w3-indigo" style="padding-top: 50px; padding-bottom: 20px; width: 100%;">
-<h2><span style="font-family: arial; font-weight: bold; color: white;"> For details on the Mysore sightseeing packages and other queries, Contact Us</span></h2>
-<div class="w3-container w3-center" style="padding-top: 20px; padding-bottom: 50px;">
- <a href="contact-us.php" class="w3-btn w3-square-xxlarge w3-hover-indigo w3-white w3-hover-text-white w3-text-indigo"><span style="font-family: arial; font-weight: bold;">CONTACT US</span></a>
+<div class="w3-container w3-center w3-indigo w3-padding-16 w3-margin-top w3-text-white">
+<h2><strong>For details on the Mysore sightseeing packages and other queries, Contact Us</strong></h2>
+<div class="w3-container w3-center w3-padding-16">
+ <a href="contact-us.php" class="w3-btn w3-square-xxlarge w3-hover-indigo w3-white w3-hover-text-white w3-text-indigo"><strong>CONTACT US</strong></a>
 </div>
 </div>
 
 
-<div class="w3-container w3-center" style="padding-top: 50px; padding-bottom: 50px; width: 100%;">
-<span style="font-size: 32px; font-family: arial; color: #3f51b5; font-weight: 900;">WHY MYSORE TRAVEL?</span>
+<div class="w3-container w3-center w3-padding-16 w3-text-indigo">
+<h1><strong>WHY MYSORE TRAVEL?</strong></h1>
 </div>
 
 
 
  <div class="w3-row">
-  <div class="w3-third w3-container w3-center" style="padding-left: 60px; padding-right:60px;">
+  <div class="w3-third w3-container w3-center w3-padding">
   <img src="images/home.png" alt="accomodation">
-    <h2><span style="font-family: arial; font-size: 18px; align: center; color: #3f51b5; font-weight: bold;">Best Accomodation</span></h2>
+    <h4><strong style="color: #3f51b5;">Best Accomodation</strong></h4>
     We assure you the best accomodation in every places you visit to make your trip worth remembering.
   </div>
-  <div class="w3-third w3-container w3-center" style="padding-left: 60px; padding-right:60px;">
-   <img src="images/rupee.png" alt="accomodation">
-    <h2><span style="font-family: arial; font-size: 18px; align: center; color: #3f51b5; font-weight: bold;">Best Price</span></h2>
+  <div class="w3-third w3-container w3-center w3-padding">
+   <img src="images/rupee.png" alt="price">
+    <h4><strong style="color: #3f51b5;">Best Price</strong></h2>
     We are offering you various packages at lowest prices as possible.
   </div>
-  <div class="w3-third w3-container w3-center" style="padding-left: 60px; padding-right:60px;">
-   <img src="images/car.png" alt="accomodation">
-    <h2><span style="font-family: arial; font-size: 18px; align: center; color: #3f51b5; font-weight: bold;">Best Services</span></h2>
+  <div class="w3-third w3-container w3-center w3-padding">
+   <img src="images/car.png" alt="service">
+    <h4><strong style="color: #3f51b5;">Best Services</strong></h4>
     From picking up and till dropping you safe, we give you the best services beyond your expectations.
   </div>
 </div> 
