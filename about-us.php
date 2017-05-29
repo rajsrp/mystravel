@@ -39,7 +39,9 @@ We are offering you various packages in and around the city, to know more about 
  <a href="packages.php" class="w3-btn w3-square-xxlarge w3-hover-white w3-indigo w3-hover-text-black"><strong style="font-family: arial;">CLICK HERE</strong></a>
 </div>
 <br><br><br>
+<div class="w3-center">
 <h3 style="text-align: center;">Few of the places you can visit.</h3>
+</div>
 </div>
 <div class="slideshow-container" style="width:1200px;">
   <div class="mySlides fade">
