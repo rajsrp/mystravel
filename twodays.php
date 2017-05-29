@@ -7,134 +7,134 @@
 <!----------------Content Area------------------>
 
 
-<div class="w3-container w3-center" style="padding-top:40px; padding-bottom: 20px; width: 100%; align: center;">
-<span style="font-size: 30px; color: blue; font-family: arial; font-weight: bold; text-align: middle; padding-top:20px; padding-bottom: 35px;">PLACES TO VISIT IN 2 DAYS AROUND MYSORE CITY</span>
+<div class="w3-container w3-center w3-padding w3-text-indigo">
+<h1><strong>PLACES TO VISIT IN 2 DAYS AROUND MYSORE CITY</strong></h1>
 </div>
-<div class="w3-container" style="padding-top:10px; padding-bottom: 30px; width: 100%; margin: 10px;">
+<div class="w3-container w3-padding w3-margin">
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
-   <img src="images/3daytrip3.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Daria Doulat Bhag</h4>
+   <img src="images/3daytrip3.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Daria Doulat Bhag</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
-  <img src="images/3daytrip4.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Tiipu Sultan Fort</h4>
+  <img src="images/3daytrip4.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Tiipu Sultan Fort</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip5.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Nimishambha Temple</h4>
+ <img src="images/3daytrip5.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Nimishambha Temple</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip6.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Melkote</h4>
+ <img src="images/3daytrip6.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Melkote</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip7.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Thalakaadu</h4>
+ <img src="images/3daytrip7.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Thalakaadu</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip8.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Nanjanagud</h4>
+ <img src="images/3daytrip8.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Nanjanagud</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip9.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Somanathapura</h4>
+ <img src="images/3daytrip9.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Somanathapura</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip10.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Himavad Gopalaswamy Hill</h4>
+ <img src="images/3daytrip10.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Himavad Gopalaswamy Hill</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip11.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Halebidu</h4>
+ <img src="images/3daytrip11.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Halebidu</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip12.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Bandipur National Park</h4>
+ <img src="images/3daytrip12.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Bandipur National Park</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip19.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Shivanasamudra Falls</h4>
+ <img src="images/3daytrip19.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Shivanasamudra Falls</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip18.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Ranganathittu Bird Sanctury</h4>
+ <img src="images/3daytrip18.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Ranganathittu Bird Sanctury</h4>
     </div>
   </div>
 </div> 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip15.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Kunthi Betta</h4>
+ <img src="images/3daytrip15.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Kunthi Betta</h4>
     </div>
   </div>
 </div> 
 
 
- <div class="w3-quarter" style="padding-left: 10px; padding-right: 10px; padding-top: 20px;">
+ <div class="w3-quarter w3-padding">
   <div class="w3-card-2">
- <img src="images/3daytrip14.jpg" style="width:100%" class="w3-hover-opacity">
-    <div class="w3-container">
-      <h4 style="text-align: center;">Bylakuppe</h4>
+ <img src="images/3daytrip14.jpg" width=100% class="w3-hover-opacity">
+    <div class="w3-container w3-center">
+      <h4>Bylakuppe</h4>
     </div>
   </div>
 </div> 
