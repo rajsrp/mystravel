@@ -7,7 +7,7 @@
 <!----------------Content Area------------------>
 
 
-<div class="w3-container w3-center" style="padding-top:40px; padding-bottom: 20px; width: 100%; align: center;">
+<div class="w3-container w3-center w3-padding">
 <span style="font-size: 30px; color: blue; font-family: arial; font-weight: bold; text-align: middle; padding-top:20px; padding-bottom: 35px;">MYSORE ONE DAY TRIP</span>
 </div>
 
