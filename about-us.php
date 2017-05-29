@@ -35,13 +35,12 @@ We are one of the top travel agencies in the city known for our best service, be
 
 We are offering you various packages in and around the city, to know more about the packages
 <br>
-<div class="w3-container w3-left" style="padding-top: 20px; padding-bottom: 50px;">
+<div class="w3-container w3-left" style="padding-top: 20px;">
  <a href="packages.php" class="w3-btn w3-square-xxlarge w3-hover-white w3-indigo w3-hover-text-black"><strong style="font-family: arial;">CLICK HERE</strong></a>
 </div>
-<br><br><br>
+</div>
 <div class="w3-center">
 <h3 style="text-align: center;">Few of the places you can visit.</h3>
-</div>
 </div>
 <div class="slideshow-container" style="width:1200px;">
   <div class="mySlides fade">
