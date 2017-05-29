@@ -12,7 +12,7 @@
   </div>
 
   <div class="mySlides fade">
-    <img src="images/Vrindavan_Garden.jpg" style="width:1360px; height: 540px;">
+    <img src="images/Vrindavan_Garden.jpg" width=" ">
     <div class="text w3-animate-zoom" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 100px; padding-left: 200px; text-align: center;">Brindavan Garden</div>
   </div>
 
