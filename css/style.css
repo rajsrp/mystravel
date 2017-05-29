@@ -91,3 +91,7 @@
   to {opacity: 1}
 }
 
+.fonttitle {
+  font-family: arial;
+  font-weight: bold;
+}

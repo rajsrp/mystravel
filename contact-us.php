@@ -5,15 +5,15 @@
 
 <?php include 'inc/header.php' ?>
 <!----------------Content Area------------------>
-<div class="w3-container w3-center" style="padding-top:40px; padding-bottom: 10px; width: 100%; align: center;">
-<span style="font-size: 30px; color: blue; font-family: arial; font-weight: bold; text-align: middle; padding-top:20px; padding-bottom: 35px;">CONTACT US</span>
+<div class="w3-container w3-center w3-padding w3-text-blue">
+<h1><strong>CONTACT US</strong></span>
 </div>
-<div class="w3-container w3-center" style="padding-top:40px; padding-bottom: 55px; width: 100%; align: center;">
+<div class="w3-container w3-center w3-padding">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.3592082114815!2d76.62242431388883!3d12.291579232761881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf7aa54556fa4b%3A0x7c6faf3697b3ba8f!2sSITE+URL!5e0!3m2!1sen!2sin!4v1495608596656" width="1200" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
-<div class="w3-row w3-right w3-padding" style="width: 100%;">
-<div class="w3-container w3-twothird">
+<div class="w3-row w3-center w3-padding">
+<div class="w3-container">
 <form action="/action_page.php" class="w3-container w3-card-4 w3-light-grey w3-text-blue w3-margin">
 <h2 class="w3-center">Contact Us</h2>
  
@@ -56,8 +56,8 @@
 
 </form>
 </div>
-<div class="w3-container w3-rest" style="padding-top: 0px; margin-left: 30px; padding-left: 50px; font-family: arial;">
-<h3 style=" font-family: arial;">Address:</h3>
+<div class="w3-container w3-rest we-margin w3-padding">
+<h3>Address:</h3>
 #335, 1st Floor, <br>E and F BLock, <br>Navilu Road, <br>Kuvempunagar, <br>Mysore - 570023
 <br><br>
 <h3>Phone:</h3>
