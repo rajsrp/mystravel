@@ -8,7 +8,7 @@
 
 
 <div class="w3-container w3-center w3-padding w3-text-indigo">
-<h1><strong>PLACES TO VISIT IN 3 DAYS IN COORG</strong></h1>
+<h1><strong>coorg tour packages from mysore </strong></h1>
 </div>
 <div class="w3-container w3-padding w3-margin">
 
