@@ -7,8 +7,8 @@
 <!----------------Content Area------------------>
 
 
-<div class="w3-container w3-center w3-text-indigo w3-padding">
-<h1><strong>PACKAGES</strong></h1>
+<div class="w3-container w3-center w3-text-indigo w3-padding-32">
+<span class="w3-xxlarge"><strong>PACKAGES</strong></span>
 </div>
 <div class="w3-container w3-padding">
 
@@ -17,6 +17,7 @@
    <a href="oneday.php"><img src="images/3daytrip1.jpg" width=100% class="w3-hover-opacity"></a>
     <div class="w3-container w3-center">
       <h4>1 Day Package</h4>
+      <h1 class="w3-large"></h1>
     </div>
   </div>
 </div> 
@@ -28,6 +29,7 @@
    <a href="twodays.php"><img src="images/3daytrip9.jpg" width=100% class="w3-hover-opacity"></a>
     <div class="w3-container w3-center">
       <h4>2 Days Package</h4>
+      <h1 class="w3-large"></h1>
     </div>
   </div>
 </div> 
@@ -39,6 +41,7 @@
   <a href="threedays.php"><img src="images/3daytrip34.jpg" width=100% class="w3-hover-opacity"></a>
     <div class="w3-container w3-center">
       <h4>3 Days Package</h4>
+      <h1 class="w3-large"></h1>
     </div>
   </div>
 </div> 
