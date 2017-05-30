@@ -48,9 +48,9 @@
   <a href="#" class="w3-bar-item w3-button w3-hide-small">Link 3</a></div>
 >>>>>>> 6dfa74a1b2f5f023764e8a3645b0755be42fbc2e-->
   <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="myFunction()">&#9776;</a>
-</div>-
+</div>
 
-<div id="demo" class="w3-bar-block w3-red w3-hide w3-hide-large w3-hide-medium">
+<div id="demo" class="w3-bar-block w3-indigo w3-hide w3-hide-large w3-hide-medium">
  <a href="about-us.php" class="w3-bar-item w3-button">About Us</a>
   <a href="packages.php" class="w3-bar-item w3-button">Packages</a>
   <a href="contact-us.php" class="w3-bar-item w3-button">Contact Us</a>
