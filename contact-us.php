@@ -6,9 +6,9 @@
 <?php include 'inc/header.php' ?>
 <!----------------Content Area------------------>
 <div class="w3-container w3-center w3-padding-32 w3-text-indigo">
-<h1><strong>CONTACT US</strong></span>
+<span class="w3-xxlarge"><strong>CONTACT US</strong></span>
 </div>
-<div class="w3-container w3-center w3-padding-32">
+<div class="w3-container w3-center w3-padding-16">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.3592082114815!2d76.62242431388883!3d12.291579232761881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf7aa54556fa4b%3A0x7c6faf3697b3ba8f!2sSITE+URL!5e0!3m2!1sen!2sin!4v1495608596656" width="1200" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 

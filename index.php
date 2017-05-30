@@ -1,43 +1,13 @@
 .<!DOCTYPE html>
 <html>
-<title>Mysore Travel</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 <?php include 'inc/header.php' ?>
-<!--<div class="slideshow-container" style="width:1200px;">
-  <div class="mySlides fade">
-  <!--  <div class="numbertext">1 / 3</div>-->
-    <!--<img src="images/Mysore_Palace.jpg" style="width:1360px; height: 540px;">
-    <div class="w3-animate-zoom text" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 100px; padding-left: 250px; text-align: center;">Beautiful Mysore Palace</div>
-  </div>
-
-  <div class="mySlides fade">
-   <!-- <div class="numbertext">2 / 3</div>-->
-   <!-- <img src="images/Vrindavan_Garden.jpg" style="width:1360px; height: 540px;">
-    <div class="text w3-animate-zoom" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 100px; padding-left: 200px; text-align: center;">Brindavan Garden</div>
-  </div>
-
-  <div class="mySlides fade">
-  <!--  <div class="numbertext">3 / 3</div>-->
-  <!--  <img src="images/Karanji_lake.jpg" style="width:1360px; height: 540px;">
-    <div class="w3-animate-zoom text" style="font-size: 70px; color: white; font-weight: bold; font-family: arial; padding-bottom: 100px; padding-left: 200px; text-align: center;">Karanji Lake</div>
-  </div>
-  </div>-->
-<!--
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
+<!----------------Content Area------------------>
 
 
-<div class="slideshow-container" style="width: 100%;">
-  <img class="mySlides" src="images/Mysore_Palace.jpg" style="width:1360px; height: 540px;">
-  <img class="mySlides" src="images/Vrindavan_Garden.jpg" style="width:1360px; height: 540px;">
-  <img class="mySlides" src="images/Karanji_lake.jpg" style="width:1360px; height: 540px;">
-</div>-->
-
-<div class="w3-container w3-center w3-padding w3-text-indigo">
+<div class="w3-container w3-center w3-padding-32 w3-text-indigo">
 <h1><strong>MYSORE TRAVELS</strong></h1>
 </div>
 <div class="w3-container w3-padding">

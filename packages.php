@@ -10,7 +10,7 @@
 <div class="w3-container w3-center w3-text-indigo w3-padding-32">
 <span class="w3-xxlarge"><strong>PACKAGES</strong></span>
 </div>
-<div class="w3-container w3-padding">
+<div class="w3-container w3-padding-16">
 
   <div class="w3-third w3-padding">
   <div class="w3-card-2">

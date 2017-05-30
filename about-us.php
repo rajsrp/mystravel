@@ -24,7 +24,7 @@
 
 
 <!--<div class="w3-container w3-center" style="padding-top:40px; padding-bottom: 55px; width: 100%; align: center;">-->
-<div class="w3-container w3-center w3-padding w3-text-indigo">
+<div class="w3-container w3-center w3-padding-32 w3-text-indigo">
 <span class="w3-xxlarge"><strong>ABOUT US</strong></span>
 </div>
 <div class="w3-container w3-padding w3-margin w3-left">

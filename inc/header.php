@@ -8,9 +8,7 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body>
-
 <div class="w3-bar w3-black">
-
 <a href="#" class="w3-bar-item  w3-button" >info@mysoretravel.com</a>
 <a href="#" class="w3-bar-item w3-button" >1234567890</a>
 </div>
