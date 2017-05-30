@@ -8,10 +8,15 @@
 <div class="w3-container w3-center w3-padding-32 w3-text-indigo">
 <span class="w3-xxlarge"><strong>CONTACT US</strong></span>
 </div>
-<div class="w3-container w3-center w3-padding-16">
+<div class="w3-container w3-center w3-padding-16 w3-hide-medium w3-hide-small">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.3592082114815!2d76.62242431388883!3d12.291579232761881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf7aa54556fa4b%3A0x7c6faf3697b3ba8f!2sSITE+URL!5e0!3m2!1sen!2sin!4v1495608596656" width="1200" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
-
+<div class="w3-container w3-center w3-hide-large w3-hide-small">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.3592082114815!2d76.62242431388883!3d12.291579232761881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf7aa54556fa4b%3A0x7c6faf3697b3ba8f!2sSITE+URL!5e0!3m2!1sen!2sin!4v1495608596656" width="700" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+<div class="w3-container w3-center w3-hide-large w3-hide-medium">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.3592082114815!2d76.62242431388883!3d12.291579232761881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf7aa54556fa4b%3A0x7c6faf3697b3ba8f!2sSITE+URL!5e0!3m2!1sen!2sin!4v1495608596656" width="285" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 <div class="w3-row w3-center w3-padding">
 <div class="w3-container">
 <form action="/action_page.php" class="w3-container w3-card-4 w3-light-grey w3-text-blue w3-margin">
