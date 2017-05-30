@@ -38,15 +38,16 @@
 </div>-->
 
 <div class="w3-container w3-center w3-padding w3-text-indigo">
-<h1><strong>MYSORE TRAVELS PACKAGES</strong></h1>
+<h1><strong>MYSORE TRAVELS</strong></h1>
 </div>
 <div class="w3-container w3-padding">
 
  <div class="w3-third">
   <div class="w3-card-2">
    <a href="oneday.php"> <img src="images/1daytrip.jpg" width=100% class="w3-hover-opacity w3-padding"></a>
-    <div class="w3-container">
-      <h4 style="text-align: center;">1 Day Package</h4>
+    <div class="w3-container w3-center w3-medium">
+      <h2 class="w3-large">1 Day Package</h2>
+      <h2 class="w3-large">Mysore Tour Package</h2>
     </div>
   </div>
 </div> 
@@ -56,8 +57,9 @@
  <div class="w3-third">
   <div class="w3-card-2">
    <a href="twodays.php"> <img src="images/2daytrip.jpg" width=100% class="w3-hover-opacity w3-padding"></a>
-    <div class="w3-container">
-      <h4 style="text-align: center;">2 Days Package</h4>
+    <div class="w3-container w3-center">
+      <h2 class="w3-large">2 Days Package</h2>
+      <h2></h2>
     </div>
   </div>
 </div> 
@@ -67,8 +69,9 @@
  <div class="w3-third">
   <div class="w3-card-2">
    <a href="threedays.php"> <img src="images/3daytrip.jpg" width=100% class="w3-hover-opacity w3-padding"></a>
-    <div class="w3-container">
-      <h4 style="text-align: center;">3 Days Package</h4>
+    <div class="w3-container w3-center">
+      <h2>3 Days Package</h2>
+      <h2></h2>
     </div>
   </div>
 </div> 
@@ -100,21 +103,21 @@
  <div class="w3-row">
   <div class="w3-third w3-container w3-center w3-padding">
   <img src="images/home.png" alt="accomodation">
-    <h4><strong style="color: #3f51b5;">Best Accomodation</strong></h4>
+    <h4 class="w3-text-indigo"><strong>Best Accomodation</strong></h4>
     We assure you the best accomodation in every places you visit to make your trip worth remembering.
   </div>
   <div class="w3-third w3-container w3-center w3-padding">
    <img src="images/rupee.png" alt="price">
-    <h4><strong style="color: #3f51b5;">Best Price</strong></h2>
+    <h4 class="w3-text-indigo"><strong>Best Price</strong></h2>
     We are offering you various packages at lowest prices as possible.
   </div>
   <div class="w3-third w3-container w3-center w3-padding">
    <img src="images/car.png" alt="service">
-    <h4><strong style="color: #3f51b5;">Best Services</strong></h4>
+    <h4 class="w3-text-indigo"><strong>Best Services</strong></h4>
     From picking up and till dropping you safe, we give you the best services beyond your expectations.
   </div>
 </div> 
-<div class="w3-container w3-center" style="padding-top: 20px; padding-bottom: 50px;">
+<div class="w3-container w3-center w3-padding-32">
 </div>
 
 
